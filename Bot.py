@@ -41,5 +41,5 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # Token ile botu başlat
-TOKEN = "MTM1MzgzNTkxOTkzNzExNDI1Mw.GWVCFW.xnIlpZ9qAxDZT-FCi3g_C5EWtxsaSuJt4aOiA4"
+TOKEN = ""
 bot.run(TOKEN)
